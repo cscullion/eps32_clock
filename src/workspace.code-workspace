@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../cks-blink"
+		},
+		{
+			"name": "cks-shift",
+			"path": "../../cks-shift"
+		},
+		{
+			"name": "esp32-clock",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
